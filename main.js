@@ -6,3 +6,6 @@ var createCounter = function(n) {
     };
 };
 
+console.log('done');
+
+
